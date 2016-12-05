@@ -27,3 +27,10 @@ A similar implementation like this
 
 Tahereh Koohi     <tahere.koohi@gmail.com>
 
+ Use QuickWorkflow with GitHub/Eclipse
+
+( It is suggested to use QuickWorkflow if you are going to contribute back to this project, otherwise it is not required. )
+
+1.1 Register a GitHub account and fork your own branch
+
+Go to the repository page (https://github.com/tkoohi/QuickWorkflow) and click 'Fork' on the top-right corner next to 'Star'. Then you will have your own branch of DFM and you can maintain your codes under this branch and commit your changes to it. In this example, we use 'chenww05' as an example and you will see a new repo called chenww05/QuickWorkflow. Go to your repo, and copy the path. In this case, it is "https://github.com/chenww05/QuickWorkflow.git". 
