@@ -2,11 +2,9 @@
 == #QuickWorkflow ==
 =======
 
-A framework for optimization, repair and simplification of workflows 
+A framework for optimization, repair and simplification of workflows need workflow analysis. Workflow analysis is the process of studying, understanding, and evaluating the sequence of tasks, activities, and interactions that make up a specific process and /or operation. 
 
-
-
-QuickWorkflow-Java is an implementation of simplification of workflow in Java.
+QuickWorkflow-Java is an examplar implementation of simplification of workflow in Java.
 
 
 == Overview ==
