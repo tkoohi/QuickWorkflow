@@ -1,4 +1,5 @@
-A Relation in most of classification of workflows is in three types. 
-The first is And Relation Type. The and Relation type in other name calls by and branches, judgment branches, broadcast brancehs, broad cast relation and etc.
-The second relation is Xor relation. The xor relation type is an or that is true if just one of relations is true. 
-The third relation is the Or relation. Or means that we have options for choose.
+For workflow analysis and even more (workflow simplification, classification, etc) we need the logic of a workflow. In this case we offer an insight in which 3 logic relations may defined:
+A Relation in most workflow analysis is in three types: 
+The first is 'And Relation' Type. The 'and Relation' type, also names 'and branches', 'judgment branches', 'broadcast brancehs', 'broad cast relation' and etc.
+The second relation is 'Xor relation'. The xor relation type is an 'or' in workflow logic that it is true if just one of the relations is true. 
+The third relation is the 'Or relation'. Or means that we have options for choose.
